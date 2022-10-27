@@ -1,0 +1,25 @@
+{
+  "name": "cypress-api-ui",
+  "version": "1.0.0",
+  "description": "repository",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "cypress": "^10.11.0",
+    "mocha": "^10.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denisursan96/cypress-api-ui.git"
+  },
+  "author": "denis ursan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denisursan96/cypress-api-ui/issues"
+  },
+  "homepage": "https://github.com/denisursan96/cypress-api-ui#readme"
+}
