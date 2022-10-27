@@ -1,0 +1,1 @@
+export const Employee = {"name":"testName","salary":"10000","age":"31"}
